@@ -21,7 +21,7 @@ What to expect:
 ✔ Ongoing support and availability
 ✔ Immediate communication
 
-Skills: JS / HTML / CSS / Wix / Figma
+Skills: React.js / HTML / CSS / Wix / Figma
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React.js 
