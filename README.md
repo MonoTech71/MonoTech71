@@ -9,7 +9,7 @@ Strategy - The best start of a project is planning of scope of work. It's okay t
 
 I've perfectly mastered a number of technologies such as:
 💡 HTML / CSS
-💡 Javascript
+💡 React.js
 💡 Bootstrap 5
 💡 PSD to HTML / Sketch to HTML / Figma to HTML
 
