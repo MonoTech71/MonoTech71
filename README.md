@@ -27,7 +27,7 @@ Skills: React.js / HTML / CSS / Wix / Figma
 - 🌱 I’m currently learning React.js 
 - 👯 I’m looking to collaborate on email, GitHub, LinkedIn 
 - 🤔 I’m looking for help with new role. 
-- 📫 How to reach me: mmost7190@gmail.com 
+- 📫 How to reach me: 
 - 😄 Pronouns: She 
 
 
