@@ -1,4 +1,4 @@
-### Hi there 👋, This is MonoTech.
+### Hi there 👋, This is Murshida K.
 #### I am Front-end Developer 
 ![I am Front-end Developer ](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif)
 
@@ -9,7 +9,11 @@ Strategy - The best start of a project is planning of scope of work. It's okay t
 
 I've perfectly mastered a number of technologies such as:
 💡 HTML / CSS
+💡 JavaScript
 💡 React.js
+💡 WordPress
+💡 Wix
+💡 Material UI
 💡 Bootstrap 5
 💡 PSD to HTML / Sketch to HTML / Figma to HTML
 
@@ -21,7 +25,7 @@ What to expect:
 ✔ Ongoing support and availability
 ✔ Immediate communication
 
-Skills: React.js / HTML / CSS / Wix / Figma
+Skills: JavaScript / React.js / HTML / CSS / Wix / WordPress / Figma /
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React.js 
