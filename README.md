@@ -2,7 +2,7 @@
 #### I am Front-end Developer 
 ![I am Front-end Developer ](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif)
 
-Welcome to my profile. I'm Murshida K.
+Welcome to my profile. I'm Sonali K.
 I have 3+ years of extensive experience using JavaScript technologies. I can work as a full designer ( graphics design + front-end design ).
 
 Strategy - The best start of a project is planning of scope of work. It's okay to create a list of Technical Tasks for a small project. However, large enterprise systems require a well-grounded specification from a professional business analyst or I can help with this.
