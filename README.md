@@ -1,4 +1,4 @@
-### Hi there 👋, This is Most Sonali K.
+### Hi there 👋, This is MonoTech71
 #### I am Front-end Developer 
 ![I am Front-end Developer ](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif)
 
@@ -31,11 +31,10 @@ Skills: JavaScript / React.js / HTML / CSS / Wix / WordPress / Figma /
 - 🌱 I’m currently learning React.js 
 - 👯 I’m looking to collaborate on email, GitHub, LinkedIn 
 - 🤔 I’m looking for help with new role. 
-- 📫 How to reach me: mmost7190@gmail.com
+- 📫 How to reach me: 
 - 😄 Pronouns: She 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MonoTech71)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/murshida-khatun//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~01cdd6dae28d6395fb)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
