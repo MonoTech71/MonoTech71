@@ -12,6 +12,7 @@ I've perfectly mastered a number of technologies such as:
 💡 JavaScript
 💡 React.js
 💡 WordPress
+💡 Webflow
 💡 Wix
 💡 Material UI
 💡 Bootstrap 5
